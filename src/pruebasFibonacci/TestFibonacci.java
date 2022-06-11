@@ -27,7 +27,7 @@ class TestFibonacci {
 	@Test
 	void test3() {
 		int numero = program.serieFibonacci(3);
-		assertEquals(1, numero);
+		assertEquals(2, numero);
 	}
 	
 
